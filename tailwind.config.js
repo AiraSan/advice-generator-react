@@ -17,7 +17,7 @@ module.exports = {
         'display': ['Manrope', 'sans-serif']
       },
       fontSize: {
-        'base': '1.75rem'
+        'base': '1.55rem'
       },
       letterSpacing: {
         'base': '0.1875rem'
