@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .btn{
+        @apply py-1 px-2 bg-blue-800 text-gray-200 rounded-xl;
+    }
+
+    .center{
+        @apply flex justify-center items-center;
+    }
+}
